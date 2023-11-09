@@ -1,0 +1,10 @@
+Project Flow:
+1.Database Connection
+2.Constants
+3.Session
+4.Signup
+5.Login
+6.Dashboard
+7.Logout
+8.Forgot Password
+9.Reset Password
